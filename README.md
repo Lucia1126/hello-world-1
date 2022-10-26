@@ -5,6 +5,6 @@ this is a repository
 1. This is one
 2. This is two
 3. And this is three
-|name|age|
-|Lucy|22|
-|Tim|22|
+| name | age |
+| Lucy | 22 |
+| Tim | 22 |
